@@ -1,0 +1,8 @@
+#bmw, #card, #audi , #porsche{
+    width: 265px;
+    height: 400px;
+}
+#bmw img, #card img, #audi img, #porsche img{
+    width: 100%;
+    height: 70%;
+}
